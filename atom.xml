@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>王江川的个人博客</title>
+  <title>王江川的博客</title>
   <subtitle>爱生活爱编码</subtitle>
   <link href="/atom.xml" rel="self"/>
   
@@ -9,7 +9,7 @@
   <id>http://mrwang0910.github.io/</id>
   
   <author>
-    <name>Wang Jiang Chuan</name>
+    <name>王江川</name>
     
   </author>
   
