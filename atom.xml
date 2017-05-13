@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://mrwang0910.github.io/"/>
-  <updated>2017-05-13T13:59:26.221Z</updated>
+  <updated>2017-05-13T14:33:22.854Z</updated>
   <id>http://mrwang0910.github.io/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://mrwang0910.github.io/2017/05/13/My-Post/"/>
     <id>http://mrwang0910.github.io/2017/05/13/My-Post/</id>
     <published>2017-05-13T09:49:47.000Z</published>
-    <updated>2017-05-13T13:59:26.221Z</updated>
+    <updated>2017-05-13T14:33:22.854Z</updated>
     
     <content type="html"><![CDATA[<h1 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h1><p>搭建环境：window系统 Hexo3版本</p>
 <h2 id="安装软件前提"><a href="#安装软件前提" class="headerlink" title="安装软件前提"></a>安装软件前提</h2>]]></content>
@@ -34,8 +34,6 @@
     
     
       <category term="hexo" scheme="http://mrwang0910.github.io/tags/hexo/"/>
-    
-      <category term="博客搭建" scheme="http://mrwang0910.github.io/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
     
   </entry>
   
